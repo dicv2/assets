@@ -1,11 +1,11 @@
 {
-    "name": "Rupiah Token",
-    "symbol": "IDRTB",
-    "type": "BEP2",
-    "decimals": 8,
-    "description": "Rupiah Token (IDRT) is the first and most adopted Indonesian Rupiah stablecoin that is fully collateralized 1:1 by Rupiah (IDR) fiat currency.",
-    "website": "https://rupiahtoken.com/",
-    "explorer": "https://explorer.binance.org/asset/IDRTB-178",
+    "name": "Decentralization internet coin",
+    "symbol": "DIC",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "Daikicoin (DIC) is a cryptocurrency . Daikicoin has a current supply of 210,361,557 with 0 in circulation. The last known price of Daikicoin is 0.00360971 USD and is up 0.00 over the last 24 hours. More information can be found at http://www.daikicoin.org/..",
+    "website": "http://www.daikicoin.org",
+    "explorer": "https://bscscan.com/address/0xf973cbd70707c86f46814cb7bd488021d4a7be65",
     "status": "active",
-    "id": "IDRTB-178"
+    "id": "DIC-56"
 }
